@@ -1,0 +1,21 @@
+.features-list {
+    display: flex;
+    gap: 24px;
+    }
+.features-items {
+    width: calc((100% - 72px) / 4);
+}
+.features-items-title {
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+padding-bottom: 8px;
+}
+
+.features-items-text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
