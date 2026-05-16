@@ -6,7 +6,8 @@
     url(../images/hero-bg.jpg) ;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
+    max-width: 1440рх;
     }
 
     .hero-title {
